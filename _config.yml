@@ -1,0 +1,22 @@
+title: Sound Frontier
+description: Exploring diverse music landscapes from alternative rock to global sounds
+theme: jekyll-theme-slate
+
+markdown: kramdown
+
+author:
+  name: Yaroslav
+  location: Poland
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
