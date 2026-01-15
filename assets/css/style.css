@@ -7,14 +7,14 @@
     --primary: #1db954;
     --dark: #191414;
     --medium: #282828;
-    --light: #b3b3b3;
+    --light: #ffffff;
     --accent: #ff6b6b;
 }
 
 body {
     font-family: 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.7;
-    color: #e0e0e0;
+    color: #ffffff;
     background: var(--dark);
 }
 
@@ -40,7 +40,7 @@ nav {
 }
 
 nav a {
-    color: var(--light);
+    color: #ffffff;
     text-decoration: none;
     margin-right: 2rem;
     padding: 0.7rem 1.2rem;
@@ -60,7 +60,7 @@ nav a:hover {
 main {
     max-width: 1000px;
     margin: 0 auto;
-    padding: 0 2rem 4rem 2rem;
+    padding: 2rem;
     background: var(--medium);
     border-radius: 8px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.5);
@@ -83,7 +83,11 @@ h3 {
 }
 
 h4 {
-    color: var(--light);
+    color: #ffffff;
+}
+
+p {
+    color: #ffffff;
 }
 
 a {
@@ -99,7 +103,7 @@ blockquote {
     border-left: 4px solid var(--primary);
     padding-left: 1.5rem;
     margin: 1.5rem 0;
-    color: var(--light);
+    color: #ffffff;
     font-style: italic;
 }
 
@@ -121,11 +125,16 @@ footer {
     padding: 2rem;
     margin-top: 4rem;
     border-top: 2px solid var(--medium);
-    color: var(--light);
+    color: #ffffff;
 }
 
 ul, ol {
     line-height: 1.9;
+    color: #ffffff;
+}
+
+li {
+    color: #ffffff;
 }
 
 strong {
