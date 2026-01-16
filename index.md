@@ -38,4 +38,12 @@ Music transcends language barriers, connects cultures, and documents our collect
 - **Genres Explored:** 23
 - **Countries Represented:** 31
 
+---
+
+## Featured Presentation
+
+[**View: The Evolution of Alternative Rock →**](presentation.html)
+
+*Interactive slide presentation exploring 40 years of alternative music history*
+
 [Explore All Reviews](reviews.html) | [Read Latest Blog Posts](blog.html)
